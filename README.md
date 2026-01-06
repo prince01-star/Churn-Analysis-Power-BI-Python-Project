@@ -57,8 +57,8 @@ Contains 7,043 customer records with demographics, billing, services, and contra
 ---
 
 ## 📸 Dashboard Screenshots
-> *(Add your images here)*
-
+> <img width="1453" height="751" alt="Churn Analysis" src="https://github.com/user-attachments/assets/6d6ffe73-9b41-4bcd-9564-cdfb95f3950b" />
+<img width="1455" height="747" alt="Churn Prediction" src="https://github.com/user-attachments/assets/bebf88bb-d69d-4622-a915-57c10c089a08" />
 
 ---
 
